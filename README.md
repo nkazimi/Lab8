@@ -2,3 +2,6 @@
 
 Cypress and Jest weren't working too well together
 so we've separated the two out in different parts
+
+### <b>Navid Kazimi</b>
+### <b>A15681500</b>
